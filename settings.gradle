@@ -1,0 +1,2 @@
+rootProject.name='SampleViewBindingApp'
+include ':app'
